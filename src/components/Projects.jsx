@@ -47,7 +47,7 @@ function Projects() {
           <p className="text-slate-400 max-w-2xl mx-auto mt-8 text-lg leading-9">
 
             Here are some of my favorite projects built
-            using AI, Full Stack Development and
+            using  Full Stack Development and
             Modern Web Technologies.
 
           </p>

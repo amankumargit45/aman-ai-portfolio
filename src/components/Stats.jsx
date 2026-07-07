@@ -4,7 +4,7 @@ import { motion } from "framer-motion";
 const stats = [
   {
     icon: <FolderGit2 size={30} />,
-    number: "20+",
+    number: "5+",
     title: "Projects Built",
   },
   {
@@ -19,8 +19,8 @@ const stats = [
   },
   {
     icon: <Cpu size={30} />,
-    number: "AI",
-    title: "Automation & Full Stack",
+    number: "Software Developer",
+    title: "Full Stack",
   },
 ];
 

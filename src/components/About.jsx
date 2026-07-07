@@ -36,14 +36,11 @@ function About() {
 
           <p className="text-gray-400 leading-9 text-lg">
 
-            I'm an AI Engineer and Full Stack Developer passionate about
-            building intelligent software products that solve real-world
-            business problems.
+            I'm a Software Developer and Full Stack Web Developer passionate about building scalable software and modern web applications that solve real-world problems.
 
             <br/><br/>
 
-            I enjoy creating scalable web applications,
-            automation systems and AI-powered solutions using modern
+            I enjoy creating scalable web applications using modern
             technologies.
 
             <br/><br/>

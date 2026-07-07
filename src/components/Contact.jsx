@@ -60,7 +60,7 @@ const sendEmail = (e) => {
       </h2>
 
       <p className="text-gray-400 mt-6 max-w-2xl mx-auto leading-8">
-        Have a project in mind or looking for an AI Engineer?
+        Have a project in mind or looking for an Software Developer?
         Let's connect.
       </p>
 

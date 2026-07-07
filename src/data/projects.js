@@ -3,17 +3,7 @@ import incident from "../assets/projects/incident-analyzer.png";
 import anpr from "../assets/projects/anpr.png";
 
 const projects = [
-  {
-    id: 1,
-    image: incident,
-    title: "AI Incident Analyzer",
-    description:
-      "AI-powered incident analysis platform that categorizes incidents, generates intelligent summaries and helps businesses respond faster.",
-    tech: ["React", "FastAPI", "Python", "OpenAI"],
-    github: "https://github.com/amankumargit45/AI_INCIDENT_ANALYZER",
-    live: "",
-    featured: true,
-  },
+ 
 
   {
     id: 2,
@@ -27,17 +17,18 @@ const projects = [
     featured: true,
   },
 
-  {
-    id: 3,
-    image: anpr,
-    title: "ANPR System",
+
+   {
+    id: 1,
+    image: incident,
+    title: "Flipcom",
     description:
-      "Automatic Number Plate Recognition using YOLOv8, OpenCV and OCR with real-time vehicle detection.",
-    tech: ["YOLOv8", "OpenCV", "Python", "EasyOCR"],
-    github: "https://github.com/amankumargit45/anpr_project",
-    live: "",
+      "Developed a responsive e-commerce frontend with product browsing, shopping cart management, and an intuitive user interface. Implemented dynamic client-side functionality using JavaScript for cart updates, quantity management, and real-time toast notifications. Deployed the application on Render for seamless access.",
+    tech: ["HTML", "CSS", "JavaScript"],
+    github: "https://github.com/amankumargit45/Flipcom",
+    live: "https://flipcom-2.onrender.com/",
     featured: true,
-  },
+  }
 ];
 
 export default projects;

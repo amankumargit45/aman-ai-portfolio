@@ -22,7 +22,7 @@ function Footer() {
 
             <p className="text-slate-400 mt-4 max-w-md leading-8">
 
-              AI Engineer • Full Stack Developer • Automation Specialist
+              • Full Stack Developer • Software Developer
 
             </p>
 

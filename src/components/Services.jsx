@@ -4,9 +4,9 @@ import { motion } from "framer-motion";
 const services = [
   {
     icon: <Bot size={42} />,
-    title: "AI Automation",
+    title: "Web Development",
     description:
-      "Automate repetitive business workflows using AI, APIs and intelligent systems to save time and reduce manual work."
+      "Build scalable software solutions and modern web applications with clean architecture, responsive design, and high-performance backend systems."
   },
   {
     icon: <Code2 size={42} />,
@@ -14,12 +14,7 @@ const services = [
     description:
       "Build modern, responsive and scalable web applications using React, Node.js and modern technologies."
   },
-  {
-    icon: <BarChart3 size={42} />,
-    title: "Dashboards & Analytics",
-    description:
-      "Create interactive dashboards and data-driven solutions that help businesses make better decisions."
-  }
+  
 ];
 
 function Services() {
@@ -44,8 +39,7 @@ function Services() {
         </h2>
 
         <p className="text-gray-400 max-w-2xl mx-auto mt-6 leading-8">
-          I build AI-powered software solutions that help businesses automate
-          work, improve productivity and deliver better customer experiences.
+         I build scalable software solutions and modern web applications that deliver seamless user experiences, improve performance, and solve real-world problems.
         </p>
       </motion.div>
 

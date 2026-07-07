@@ -65,11 +65,11 @@ function Hero() {
 
             <TypeAnimation
               sequence={[
-                "AI Engineer",
+                "Software Developer",
                 1800,
                 "Full Stack Developer",
                 1800,
-                "Automation Specialist",
+                "Coder",
                 1800,
                 "Problem Solver",
                 1800,
@@ -83,11 +83,8 @@ function Hero() {
 
           <p className="mt-8 max-w-xl text-lg text-slate-400 leading-9">
 
-            I build AI-powered software,
-            automation systems and scalable web
-            applications that help businesses
-            reduce costs, improve productivity
-            and automate repetitive work.
+            I build scalable software solutions, modern web applications, and efficient backend systems that deliver reliable, high-performance, and user-friendly digital experiences.
+
 
           </p>
 
@@ -189,13 +186,13 @@ function Hero() {
 
                 <h3 className="font-bold text-center text-lg">
 
-                  20+ Projects Built
+                  5+ Projects Built
 
                 </h3>
 
                 <p className="text-sm text-slate-300 text-center mt-1">
 
-                  AI • Full Stack • Automation
+                  • Full Stack • Software Developer
 
                 </p>
 
@@ -219,11 +216,11 @@ function Hero() {
 
               <div>
                 <h4 className="font-semibold">
-                  AI Solutions
+                  Software Developer
                 </h4>
 
                 <p className="text-sm text-slate-400">
-                  Automation Expert
+                  Problem Solver
                 </p>
               </div>
             </motion.div>
